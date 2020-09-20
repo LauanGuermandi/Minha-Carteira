@@ -18,4 +18,3 @@ export const ToggleSelector = styled(Switch).attrs<ReactSwitchProps>(
     }
   )
 )<ReactSwitchProps>``
-
